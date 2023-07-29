@@ -1,0 +1,19 @@
+
+\begin{table}[H]
+\centering
+\caption{Espacio para el Titulo de la Tabla}
+\label{tabB}
+\begin{tabular}{llll}
+Dato & Emergencia & Valor & Estado \\
+\hline
+23   & 120        & 36    & 28     \\
+\hline
+14   & 156        & 47    & 96     \\
+\hline
+12   & 45         & 67    & 90   \\
+\hline
+\end{tabular}
+\end{table}
+
+
+Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text.

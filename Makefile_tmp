@@ -1,0 +1,8 @@
+
+build: PropuestaDoctoral.pdf
+
+PropuestaDoctoral.pdf: PropuestaDoctoral.tex Referencias.bib
+	pdflatex $<
+	bibtex PropuestaDoctoral.aux
+	pdflatex $<
+	pdflatex $<
